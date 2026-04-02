@@ -1,0 +1,13 @@
+[project]
+name = "ai-wechat-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pillow>=12.2.0",
+    "pyautogui>=0.9.54",
+    "pyperclip>=1.11.0",
+    "pywin32>=311",
+    "pywinauto>=0.6.9",
+]
