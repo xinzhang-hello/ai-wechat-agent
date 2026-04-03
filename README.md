@@ -2,7 +2,7 @@
 
 本项目是一个基于 Python 的微信 Windows 客户端自动化代理，旨在通过 AI 赋能实现微信消息的自动回复、群聊监控及聊天记录存储。
 
-> **当前适配版本**：微信 Windows 4.1.1.19
+> **当前适配版本**：微信 Windows 4.1.1.19 启动失败请先启动windows讲述人功能，跑通后关掉即可
 > **核心技术栈**：Python, `pywinauto`, `pyautogui`, `pywin32`, SQLite3
 
 ---
